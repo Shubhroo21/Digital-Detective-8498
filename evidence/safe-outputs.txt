@@ -85,3 +85,13 @@ $ python3 mission-05-numbers-data/number_converter.py (inputs: 13, 25, 255)
 13 -> Binary: 0b1101, Hexadecimal: 0xd
 25 -> Binary: 0b11001, Hexadecimal: 0x19
 255 -> Binary: 0b11111111, Hexadecimal: 0xff
+
+=== Mission 6: Git & GitHub ===
+$ git log -n 5 --oneline
+7fd6232 Build number converter and practise data representation
+027e0d5 Compare compilers and interpreters
+da5c9b3 Document operating system and file management
+f52a22a Complete Terminal and file management mission
+962c5b7 Complete computer basics and IPOS mission
+
+Pull Request status: Created via `gh pr create` (https://github.com/Shubhroo21/Digital-Detective-8498/pull/1), merged locally into `main`, and pushed to GitHub.
