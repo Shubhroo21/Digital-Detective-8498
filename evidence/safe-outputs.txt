@@ -7,3 +7,49 @@ Python 3.14.7
 
 $ git --version
 git version 2.54.0 (Apple Git-157)
+
+=== Mission 2: Terminal & File Management ===
+$ pwd
+/Users/[redacted]/Desktop/Diwali/digital-detective-8498
+
+$ ls -l | head -n 5
+total 8
+drwxr-xr-x  3 [redacted]  staff    96 27 Nov 00:09 evidence
+drwxr-xr-x  3 [redacted]  staff    96 27 Nov 00:09 mission-00-setup
+drwxr-xr-x  3 [redacted]  staff    96 27 Nov 00:09 mission-01-computer-basics
+drwxr-xr-x  3 [redacted]  staff    96 27 Nov 00:09 mission-02-terminal
+
+$ cat terminal-practice/notes.txt
+First line of practice notes.
+Second line appended safely.
+
+$ brew --version
+Homebrew 7.0.15
+
+$ brew list
+ca-certificates
+cloudflared
+dav1d
+ffmpeg
+gcc
+gh
+gmp
+isl
+lame
+libmpc
+libpng
+libvmaf
+libvpx
+lz4
+mpfr
+mpg123
+openssl@4
+opus
+qrencode
+sdl2-compat
+sdl3
+svt-av1
+x264
+x265
+xz
+zstd
