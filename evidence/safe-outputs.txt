@@ -95,3 +95,10 @@ f52a22a Complete Terminal and file management mission
 962c5b7 Complete computer basics and IPOS mission
 
 Pull Request status: Created via `gh pr create` (https://github.com/Shubhroo21/Digital-Detective-8498/pull/1), merged locally into `main`, and pushed to GitHub.
+
+=== Mission 7: Computer Networks ===
+$ ping -c 3 example.com (summary)
+3 packets transmitted, 3 packets received, 0.0% packet loss; round-trip min/avg/max/stddev = 5.690/7.313/9.408/1.554 ms
+
+$ nslookup example.com (resolved public IPs; local DNS server omitted)
+172.66.147.243, 104.20.23.154
